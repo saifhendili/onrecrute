@@ -1,0 +1,60 @@
+.mypaading{
+  margin: 0 34%;
+}
+
+.alert {
+  padding: 10px 80px;
+  border-radius: 5px;
+}
+.alert-danger2 {
+  border: solid 1px;
+  background-color: #ca4444;
+  color: white;
+  position: absolute;
+  margin: 70px;
+  width: 78%;
+  top: 650px;
+}
+.fixmargingetoffre{
+  text-align:center;
+  margin: 0 20%;
+
+}
+.alert-danger {
+  border: solid 1px;
+  background-color: #ca4444;
+  color: white;
+  margin: 0 400px;
+}
+.alert-danger3 {
+  width: 78%;
+  border: solid 1px;
+  background-color: #ca4444;
+  color: white;
+  margin: 0 70px;
+  position: relative;
+
+  top: 800px;
+}
+.alert-0 {
+  margin-top: 70px;
+}
+.alert-success {
+  background-color: green;
+  color: white;
+  position: absolute;
+  margin: 70px;
+  width: 78%;
+  top: 650px;
+}
+.alert-success2 {
+  background-color: green;
+  color: white;
+  position: absolute;
+  margin: 70px;
+  width: 78%;
+  top: 590px;
+}
+.bgthisapptest{
+  background-color: white;
+}

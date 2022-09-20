@@ -1,0 +1,23 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+
+export const CLEAR_PROFILE = 'CLEAR_PROFILE';
+export const ADD_OFFRE = 'ADD_OFFRE';
+export const GET_OFFRE = 'GET_OFFRE';
+export const GET_OFFRES = 'GET_OFFRES';
+export const EDIT_OFFRE = 'EDIT_OFFRE';
+export const DELETE_OFFRE = 'DELETE_OFFRE';
+export const ERROR_OFFRE = 'ERROR_OFFRE';
+export const ADD_RESUME = 'ADD_RESUME';
+export const ACCEPTED = 'ACCEPTED';
+export const REJECTED = 'REJECTED';
+export const GET_MYUSER = 'GET_MYUSER';
+export const ACCEPTED_JOB = 'ACCEPTED_JOB';
+export const REJECTED_JOB = 'REJECTED_JOB';

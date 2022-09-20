@@ -1,0 +1,23 @@
+/* @import url(http://fonts.googleapis.com/css?family=Calibri:400,300,700); */
+
+body {
+    background-color: #dddddd;
+    font-family: 'Calibri', sans-serif !important;
+}
+
+.fix-wosth{
+    width:950px !important; /* or whatever width you want. */
+    margin: auto;
+        display: inline-block !important;
+}
+.fix-btn{
+    margin-left: 87%;
+    margin-bottom: 3%;
+    color: white;
+}
+.fix-margin{
+    position: absolute !important;
+}
+.container{
+    margin-top: 5% !important;
+}
